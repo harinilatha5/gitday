@@ -2,6 +2,12 @@ monday
 tuesday
 wednesday
 thursday
+<<<<<<< HEAD
 friday 
-saturday
+saturda:y
 sunday
+=======
+friday
+saturday
+>>>>>:qa
+ dev
