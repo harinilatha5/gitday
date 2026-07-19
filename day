@@ -1,2 +1,4 @@
 monday
 tuesday
+wednesday
+thursday
